@@ -1,4 +1,4 @@
-# Virtual environment
+# Ambiente virtual
 .venv/
 venv/
 
@@ -16,7 +16,7 @@ htmlcov/
 .mypy_cache/
 .ruff_cache/
 
-# Environment variables and secrets
+# Variáveis ​​de ambiente e segredos
 .env
 .env.*
 !.env.example
